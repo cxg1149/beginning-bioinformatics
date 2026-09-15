@@ -1,6 +1,6 @@
 # AI Use Log
-- Tool/model & version:
-- What I asked for:
-- Snippet of prompt(s):
-- What I changed before committing:
-- How I verified correctness (tests, sample data):
+- Tool/model & version: Chat GPT 5.6 Sol
+- What I asked for: Help with interpreting Rosalind Python problems, writing Python code for Google Colab journal, explaining what the code does and how it works, checking the answers using the assigned datasets.
+- Snippet of prompt(s): "I am using Rosalind to learn Python. For each of the following questions I will give a sample dataset; answer with the python code and how it works." "this is the next dataset, what is the simplest python code to run this in google colab?" "how do I make this code open the file I need in google colab?" "how do I modify this code so that it uses count( ) to count the words?"
+- What I changed before committing: I changed the provided code to use my downloaded Rosalind datasets instead of the example info. I also changed to the approaches required by the task, like dictionaries, count (), loops, string replacement, FASTA, and the GC calculations. 
+- How I verified correctness (tests, sample data): I used Rosalind's provided example datasets to run the code and compared it to the example answers to make sure the code gave me the expected results before applying it to my homework question/running the code with the assigned dataset. 
