@@ -1,2 +1,2 @@
 # beginning-bioinformatics
-Beginning bioinformatics course code
+Beginning bioinformatics BIOL 5340-001
